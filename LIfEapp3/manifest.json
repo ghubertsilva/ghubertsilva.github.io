@@ -1,6 +1,6 @@
 {
-    "name": "fgcv",
-    "short_name": "fgcv",
+    "name": "lifeapp",
+    "short_name": "lifeapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
